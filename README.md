@@ -28,8 +28,3 @@ $client = new Client('10.0.0.50');
 $client->send($zpl);
 ```
 
-## Installation with Composer
-
-```
-$ composer require robgridley/zebra
-```
